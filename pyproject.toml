@@ -1,0 +1,22 @@
+[project]
+name = "resume-critique"
+version = "0.1.0"
+description = "An AI-powered resume critique tool built with Streamlit that analyzes resumes for ATS compatibility, structure, and content quality using NVIDIA-hosted LLMs."
+readme = "README.md"
+authors = [
+    { name = "HariCodez07", email = "harimanoj147@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "openai>=3.8.0",
+    "pypdf2>=3.0.1",
+    "python-dotenv>=1.2.3",
+    "streamlit>=1.63.0",
+]
+
+[project.scripts]
+resume-critique = "resume_critique:main"
+
+[build-system]
+requires = ["uv_build>=0.12.10,<0.13.0"]
+build-backend = "uv_build"
