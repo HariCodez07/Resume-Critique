@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/banner.png" alt="HireLens Banner" width="700"/>
+  <img src="imgs/banner.png" alt="HireLens Banner" width="100%"/>
 </p>
 
 <h1 align="center">🔍 HireLens — AI Resume Critique</h1>
