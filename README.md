@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="imgs/banner.png" alt="HireLens Banner" width="100%"/>
-</p>
+<div align="center">
+  <img src="imgs/banner.png" alt="HireLens Banner" style="width: 100%; max-width: 100%;" />
+</div>
 
 <h1 align="center">🔍 HireLens — AI Resume Critique</h1>
 
@@ -140,7 +140,7 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📜 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](https://github.com/HariCodez07/Resume-Critique/blob/main/LICENSE).
 
 ---
 
